@@ -31,6 +31,7 @@ export interface PropertyProps {
     offers: offers;
     image: string;
     discount: string;
+    description: string;
 }
 export interface PillProps {
     label: string;
